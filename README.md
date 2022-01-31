@@ -98,4 +98,4 @@ Description on github:
 > Self-Study from  9/2017 - now python Web development, Django and Flask
 
 
-# Dowload My Full CV from [Here](https://github.com/osama-mohamed/osama-mohamed.github.io/raw/master/OSAMA-MOHAMED.pdf).
+# [Download My CV](https://github.com/osama-mohamed/osama-mohamed.github.io/raw/master/OSAMA-MOHAMED.pdf).
